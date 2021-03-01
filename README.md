@@ -1,4 +1,4 @@
-# Lesson 8.1 Review
+# Props and State
 
 ## Essential Question
 1. What is the difference between _state_ and _props_?
