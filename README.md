@@ -1,6 +1,6 @@
 # State
 
-## Essential Question
+## Short Response
 1. What is the difference between _state_ and _props_?
 2. What is the `useState` hook? What does `useState` return?
 
