@@ -1,4 +1,4 @@
-# Props and State
+# State
 
 ## Essential Question
 1. What is the difference between _state_ and _props_?
