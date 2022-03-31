@@ -13,4 +13,4 @@ You will make a `MultiLingualGreeting` component:
 * Beneath this greeting, there should be five buttons. 
 * Each button should correspond to a different language (perhaps, "Spanish", "Haitian Creole", and "Portuguese"). 
 * When a button is clicked, the greeting above should be translated to the appropriate language.
-* **Hint**: Your component will need to have state. Then, when a button is clicked, the state should change depending on which button was clicked. Finally, the greeting that is shown on the page should change depending on the state. 
+
