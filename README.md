@@ -13,4 +13,5 @@ You will make a `MultiLingualGreeting` component:
 * Beneath this greeting, there should be five buttons. 
 * Each button should correspond to a different language (perhaps, "Spanish", "Haitian Creole", and "Portuguese"). 
 * When a button is clicked, the greeting above should be translated to the appropriate language.
+* Your React app shoudl utilize state and the `useState` hook.
 
