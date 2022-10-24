@@ -14,6 +14,7 @@ You will be building out the following project. You should divide your UI into t
 * When a language button is clicked, the greeting above should be translated to the appropriate language.
 * Above your greeting, there should be two buttons to change the font size.
 * When the buttons are clicked, the greeting size should grow or shrink accordingly. 
+* Your greeting should be its own component. In addition, each set of buttons should be their own component. 
 
 ## Set Up
 It's highly recommended you use the scaffolding tool [Create React App](https://reactjs.org/docs/create-a-new-react-app.html) to create your starter code. 
