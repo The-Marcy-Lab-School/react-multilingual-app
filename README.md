@@ -17,10 +17,22 @@ You will be building out the following project. You should divide your UI into t
 * Your greeting should be its own component. In addition, each set of buttons should be their own component. 
 
 ## Set Up
-It's highly recommended you use the scaffolding tool [Create React App](https://reactjs.org/docs/create-a-new-react-app.html) to create your starter code. 
-1. Run the command `npx create-react-app <name-of-your-app>`. 
-2. `cd` into your newly created project.
-3. Run `npm start`.
+It's highly recommended you use the scaffolding tool [Vite](https://vitejs.dev/guide/) to create your starter code. You can run these commands to get started:
+
+```sh
+# Check your npm version
+npm -v 
+
+# npm 6.x
+npm create vite@latest project-name --template react
+
+# npm 7+, extra double-dash is needed:
+npm create vite@latest project-name -- --template react
+
+cd project-name
+npm i
+npm run dev
+```
 
 
 
